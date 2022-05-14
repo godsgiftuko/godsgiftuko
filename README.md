@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 
-**thegodsgift/thegodsgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**godsgiftuko/godsgiftuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm God'sgift Matthew </h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm God'sgift Uko </h1>
 <h3 align="center">I'm an enthusiasic and passionate Web Development & DevOps from Nigeria.</h3>
 
 
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/thegodsgift)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/godsgiftuko)**
 
-- 📫 How to reach me **iamgodsgiftmatthew@gmail.com**
+- 📫 How to reach me **godsgiftuko@gmail.com**
 
 - ⚡ Fun fact **I play Musical Instruments and Football.**
 
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
     <a href="#"> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png"> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </div> -->
-
+<!-- 
 [![PHP Badge](https://img.shields.io/badge/-PHP-474ABA?style=for-the-badge&labelColor=black&logo=php&logoColor=474ABA)](#)
 [![PHP Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#)
-[![CodeIgniter Badge](https://img.shields.io/badge/-Codeigniter-EF4223?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EF4223)](#)
+[![CodeIgniter Badge](https://img.shields.io/badge/-Codeigniter-EF4223?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EF4223)](#) -->
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
 [![Alpine.JS Badge](https://img.shields.io/badge/-Alpine.JS-8BC0D0?style=for-the-badge&labelColor=black&logo=alpine.js&logoColor=8BC0D0)](#)
@@ -64,22 +64,22 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/joemires/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best Nyah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joemires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best Nyah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=godsgiftuko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/joemires/github-readme-stats"><img alt="Best Nyah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joemires&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Best Nyah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemires&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/godsgiftuko/github-readme-stats"><img alt="Best God'sgift Uko Github Stats" src="https://github-readme-stats.vercel.app/api?username=godsgiftuko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Best God'sgift Uko Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godsgiftuko&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
 <br/>
 <br/>
 
-<a href="https://github.com/joemires/github-readme-activity-graph"><img alt="Best Nyah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joemires&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/godsgiftuko/github-readme-activity-graph"><img alt="Best God'sgift Uko Graph" src="https://activity-graph.herokuapp.com/graph?username=godsgiftuko&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -87,22 +87,22 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="center">
 
-<a href="https://www.linkedin.com/in/joemires">
+<a href="https://www.linkedin.com/in/godsgiftuko">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="mailto:joemires20@yahoo.com">
+<a href="mailto:godsgiftuko@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://twitter.com/joemires">
+<a href="https://twitter.com/godsgiftuko">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-  <a href="https://medium.com/@joemires">                                                                               
+  <a href="https://medium.com/@godsgiftuko">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://wa.me/+2348135247490">
+  <a href="https://wa.me/+2349071046909">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -114,23 +114,8 @@ Here are some ideas to get you started:
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/joemires/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=joemires">
+<a href="https://github.com/godsgiftuko/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=godsgiftuko">
 </a>
-<a href="https://github.com/joemires?tab=followers"><img src="https://img.shields.io/github/followers/joemires?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<!--
-**Joemires/Joemires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/godsgiftuko?tab=followers"><img src="https://img.shields.io/github/followers/godsgiftuko?label=Followers&style=social" alt="GitHub Badge"></a>
 

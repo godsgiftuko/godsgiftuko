@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mushroom Classification](https://mushroomclassification-333921.nn.r.appspot.com)**
+- 🔭 I’m currently working on **[Ergo Mining Poll](https://ergomine.com/)**
 
 - 🌱 I’m currently learning **Web Applications**
 

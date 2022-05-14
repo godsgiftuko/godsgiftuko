@@ -113,9 +113,9 @@ Here are some ideas to get you started:
 
 
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/godsgiftuko/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=godsgiftuko">
 </a>
-<a href="https://github.com/godsgiftuko?tab=followers"><img src="https://img.shields.io/github/followers/godsgiftuko?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/godsgiftuko?tab=followers"><img src="https://img.shields.io/github/followers/godsgiftuko?label=Followers&style=social" alt="GitHub Badge"></a> -->
 

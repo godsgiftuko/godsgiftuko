@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ergo Mining Poll](https://ergomine.com/)**
+- 🔭 I’m currently working on **[Ergo Mining Pool](https://ergomine.com/)**
 
 - 🌱 I’m currently learning **Web Applications**
 

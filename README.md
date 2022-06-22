@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 <h3 align="center">An enthusiasic and passionate Web Developer.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I’m currently working on **[Ergo Mining Pool](https://ergomine.com/)**
+- 🔭 I’m working on **[Ergo Mining Pool](https://ergomine.com/)**
 
-- 👨‍💻 My projects **[My Portfolio](https://github.com/godsgiftuko)**
+- 👨‍💻 Portfolio **[godsgiftuko](https://github.com/godsgiftuko)**
 
 - 📫 Mail **godsgiftuko@gmail.com**
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
     <a href="#"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"> </a>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/godsgiftuko/github-readme-stats"><img alt="Best God'sgift Uko Github Stats" src="https://github-readme-stats.vercel.app/api?username=godsgiftuko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

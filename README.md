@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/joemires/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best Nyah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=godsgiftuko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/godsiftuko/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best God'sgift Uko streak" src="https://github-readme-streak-stats.herokuapp.com/?user=godsgiftuko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 

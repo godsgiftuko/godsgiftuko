@@ -64,14 +64,14 @@ Here are some ideas to get you started:
 </p>
 
 ## My Github Stats
-
+<!-- 
   <br/>
     <a href="https://github.com/godsgiftuko/github-readme-stats"><img alt="Best God'sgift Uko Github Stats" src="https://github-readme-stats.vercel.app/api?username=godsgiftuko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Best God'sgift Uko Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godsgiftuko&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
-<br/>
+<br/> -->
 <br/>
 
 <a href="https://github.com/godsgiftuko/github-readme-activity-graph"><img alt="Best God'sgift Uko Graph" src="https://activity-graph.herokuapp.com/graph?username=godsgiftuko&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

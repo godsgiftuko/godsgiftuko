@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## About Me
 - 💻 Interested in NodeJs
 
-- 🔭 I’m currently working on **[Ergo Mining Pool](https://ergomine.com/)**
+- 🔭 I’m currently working on **[GCM Network](https://gcm-network.com/)**
 
 - 👨‍💻 Portfolio **[godsgiftuko](https://github.com/godsgiftuko)**
 
@@ -94,9 +94,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-  <a href="https://medium.com/@godsgiftuko">                                                                               
+<!--   <a href="https://medium.com/@godsgiftuko">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
   <a href="https://wa.me/+2349071046909">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;

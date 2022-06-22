@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
-<h3 align="center">An enthusiastic and self taught result-oriented software engineer with 5 years of experience, started alone and now in a distributed and agile team of creators. Delivering scalable solutions by building fullstack application with the help of MERN stack technology is my utmost concern.</h3>
+<h3 align="center">An enthusiastic and self taught result-oriented software engineer with 5 years of experience, started alone and now in a distributed and agile team of creators. Delivering scalable solutions by building application with the help of MERN stack technology is my utmost concern.</h3>
 
 
 ## About Me
@@ -42,14 +42,13 @@ Here are some ideas to get you started:
     <a href="#"> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png"> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </div> -->
-<!-- 
-[![PHP Badge](https://img.shields.io/badge/-PHP-474ABA?style=for-the-badge&labelColor=black&logo=php&logoColor=474ABA)](#)
-[![PHP Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#)
-[![CodeIgniter Badge](https://img.shields.io/badge/-Codeigniter-EF4223?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EF4223)](#) -->
+[![MongoDB Badge](https://img.shields.io/badge/-mongodb-6cac44?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=6cac44)](#)
+[![Express Badge](https://img.shields.io/badge/-express-333333?style=for-the-badge&labelColor=ffffff&logo=express&logoColor=333333)](#)
+[![React Badge](https://img.shields.io/badge/-react-1d9bf0?style=for-the-badge&labelColor=black&logo=react&logoColor=1d9bf0)](#)
+[![NodeJs Badge](https://img.shields.io/badge/-nodejs-6cac44?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
-[![Alpine.JS Badge](https://img.shields.io/badge/-Alpine.JS-8BC0D0?style=for-the-badge&labelColor=black&logo=alpine.js&logoColor=8BC0D0)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Typescript Badge](https://img.shields.io/badge/-typescript-1d9bf0?style=for-the-badge&labelColor=black&logo=typescript&logoColor=1d9bf0)](#)
+[![Postgresql Badge](https://img.shields.io/badge/-postgresql-31648c?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=fff)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 [![AWS Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
 [![Git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)

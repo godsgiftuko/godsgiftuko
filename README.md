@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 
 ## About Me
+- 💻 Interested in NodeJs
 
-- 🔭 I’m working on **[Ergo Mining Pool](https://ergomine.com/)**
+- 🔭 I’m currently working on **[Ergo Mining Pool](https://ergomine.com/)**
 
 - 👨‍💻 Portfolio **[godsgiftuko](https://github.com/godsgiftuko)**
 

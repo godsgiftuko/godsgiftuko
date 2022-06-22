@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
-<h3 align="center">I'm an enthusiastic, self-taught software engineer who places a focus on results.
-With 5 years of experience, developing scalable and performant web applications with MERN stack technology. Started alone as a freelance on Fiverr, and now in a distributed and agile team of creators.</h3>
+<h3 align="center">I'm an enthusiastic, self-taught software engineer who places a focus on results. With 5 years of experience, developing scalable and performant web applications with MERN stack technology. Started alone as a freelance on Fiverr, worked in a distributed and agile team of creators, and still open to meeting new creators and solving more life problems with the help of nodeJs.</h3>
 
 
 ## About Me

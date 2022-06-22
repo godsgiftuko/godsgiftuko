@@ -17,23 +17,17 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm God'sgift Uko </h1>
-<h3 align="center">I'm an enthusiasic and passionate Web Development & DevOps from Nigeria.</h3>
+<h1 align="center">Hi, I'm God'sgift Uko </h1>
+<h3 align="center">An enthusiasic and passionate Web Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Ergo Mining Pool](https://ergomine.com/)**
 
-- 🌱 I’m currently learning **Web Applications**
+- 👨‍💻 My projects **[My Portfolio](https://github.com/godsgiftuko)**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/godsgiftuko)**
-
-- 📫 How to reach me **godsgiftuko@gmail.com**
-
-- ⚡ Fun fact **I play Musical Instruments and Football.**
+- 📫 Mail **godsgiftuko@gmail.com**
 
 ## 🚀 Languages and Tools:
 

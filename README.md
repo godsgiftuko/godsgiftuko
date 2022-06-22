@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
-<h3 align="center">An enthusiastic and result-oriented software engineer with 5 years experience working alone and in a distributed agile team, and delivering scalable solutions by building fullstack application with the help of MERN technology stack.</h3>
+<h3 align="center">An enthusiastic and self taught result-oriented software engineer with 5 years of experience, started alone and now in a distributed and agile team of creators. Delivering scalable solutions by building fullstack application with the help of MERN stack technology is my utmost concern.</h3>
 
 
 ## About Me

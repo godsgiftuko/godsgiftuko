@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-- 💻 Interested in bringing your dream ideas into reality with NodeJs
+- 💻 Interested in bringing your dream ideas into reality with NodeJS
 
 - 🔭 I’m currently working on **[GCM Network](https://gcm-network.com/)**
 

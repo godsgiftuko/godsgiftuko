@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ## About Me
 - 💻 Interested in bringing your dream ideas into reality with NodeJS
 
-- 🔭 I’m currently working on **[GCM Network](https://gcm-network.com/)**
+- 🔭 Currently working on **[GCM Network](https://gcm-network.com/)**
 
 - 👨‍💻 Portfolio **[godsgiftuko](https://github.com/godsgiftuko)**
 
 - 📫 Mail **godsgiftuko@gmail.com**
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English is primary language
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English is my primary language
 
 ## Languages and Tools:
 

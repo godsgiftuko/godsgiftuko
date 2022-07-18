@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on **[GCM Network](https://gcm-network.com/)**
 
-- 👨‍💻 Portfolio **[godsgiftuko](https://github.com/godsgiftuko)**
+- 👨‍💻 Portfolio **[godsgiftuko](https://flowcv.me/godsgiftuko)**
 
 - 📫 Mail **godsgiftuko@gmail.com**
 

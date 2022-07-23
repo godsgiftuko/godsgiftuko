@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
-<h3 align="center">I'm an enthusiastic, self-taught software engineer who places focus on results. With 5 years of experience developing scalable and performant web applications with MERN stack technology. Started alone as a freelance on Fiverr, worked in a distributed and agile team of creators, and still open to meeting new creators and solving more life problems with the help of NodeJS.</h3>
+<h3 align="center">
+I'm full-stack developer in JavaScript | NodeJS | TypeScript technologies. I've 5+ years of experience in MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack application development with overall 7 years of industry experience. I can use any JavaScript | TypeScript library or framework at its best.
+</h3>
 
 
 ## About Me

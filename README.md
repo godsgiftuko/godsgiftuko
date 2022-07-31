@@ -26,7 +26,7 @@ A full-stack developer in JavaScript | NodeJS | TypeScript technologies. I've 5+
 ## About Me
 - 💻 Interested in bringing your dream ideas into reality with NodeJS
 
-- 🔭 Currently working on **[GCM Network](https://gcm-network.com/)**
+- 🔭 I'm open to job offers
 
 - 👨‍💻 Portfolio **[godsgiftuko](https://flowcv.me/godsgiftuko)**
 

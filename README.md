@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 Hi, I've got 3+ years of experience developing MERN
 stack applications. A full-stack engineer in JavaScript | NodeJS | TypeScript technologies.
-I'm highly experienced in MongoDB, ExpressJS, ReactJS, NextJS TypeScript and most NodeJS technologies. 
+I'm highly experienced in MongoDB, ExpressJS, ReactJS, NextJS TypeScript and most NodeJS technologies.
 </h3>
 
 

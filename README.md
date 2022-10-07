@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
 <h3 align="center">
-A full-stack engineer in JavaScript | NodeJS | TypeScript technologies. I've got 3+ years experience in MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack application development with overall 5 years of industry experience. I can use any JavaScript | TypeScript library or framework at its best.
+Hi, I've got 3+ years of experience developing MERN
+stack applications. A full-stack engineer in JavaScript | NodeJS | TypeScript technologies.
+I'm highly experienced in MongoDB, ExpressJS, ReactJS, NextJS TypeScript and most NodeJS technologies. 
 </h3>
 
 

@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi, I'm God'sgift Uko </h1>
 <h3 align="center">
-I am a seasoned full-stack engineer with three years of hands-on experience in ReactJS/NextJS & NestJS. My portfolio includes developing two e-commerce solutions, one e-learning platform, & two insurance applications e.t.c. Proficient in web application development & streamlined deployment using GitHub actions. I have worked in teams of engineers
+God'sgift Uko is seasoned full-stack engineer with three years of hands-on experience in ReactJS/NextJS & NestJS. My portfolio includes developing two e-commerce solutions, one e-learning platform, & two insurance applications e.t.c. Proficient in web application development & streamlined deployment using GitHub actions. I have worked in teams of engineers
 </h3>
 
 

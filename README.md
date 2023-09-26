@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm God'sgift Uko </h1>
 <h3 align="center">
-I am a highly skilled and motivated NestJS & PERN/MERN Stack Engineer with 3 years of experience. I have extensive knowledge of developing and deploying web applications using various technologies and frameworks. I have worked with different companies and clients, both remotely and as a freelancer, and have successfully delivered high-quality projects on time.
+I am a seasoned full-stack engineer with three years of hands-on experience in ReactJS/NextJS & NestJS. My portfolio includes developing two e-commerce solutions, one e-learning platform, & two insurance applications e.t.c. Proficient in web application development & streamlined deployment using GitHub actions. I have worked in teams of engineers
 </h3>
 
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Best God'sgift Uko streak" src="https://pbs.twimg.com/profile_banners/1511348874899771398/1652520751/1500x500" />
+<img title="🔥 MERN Stack" alt="Best God'sgift Uko streak" src="https://pbs.twimg.com/profile_banners/1511348874899771398/1652520751/1500x500" />
 
 <h3 align="center" style="text-decoration: none !important;">
 God'sgift Uko is seasoned full-stack engineer with three years of hands-on experience in ReactJS/NextJS & NestJS. My portfolio includes developing two e-commerce solutions, one e-learning platform, & two insurance applications e.t.c. Proficient in web application development & streamlined deployment using GitHub actions. I have worked in teams of engineers

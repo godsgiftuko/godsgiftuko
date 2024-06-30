@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img title="🔥 MERN | PERN Stack" alt="Best God'sgift Uko streak" src="https://pbs.twimg.com/profile_banners/1511348874899771398/1652520751/1500x500" />
 
 <h3 align="center" style="text-decoration: none !important;">
-God'sgift Uko is seasoned full-stack engineer with three years of hands-on experience in ReactJS/NextJS & NestJS. My portfolio includes developing two e-commerce solutions, one e-learning platform, & two insurance applications e.t.c. Proficient in web application development & streamlined deployment using GitHub actions. I have worked in teams of engineers
+Results-driven Senior Software Engineer experienced in building Fullstack systems for Fintech, e-commerce, and other products. Expert in microservices architecture, API development, and database management. Skilled in leading teams and integrating enterprise systems. Proficient in NestJS, GraphQL, TypeORM, PostgreSQL, and cloud platforms.
 </h3>
 
 

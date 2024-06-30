@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img title="🔥 MERN | PERN Stack" alt="Best God'sgift Uko streak" src="https://pbs.twimg.com/profile_banners/1511348874899771398/1652520751/1500x500" />
 
 <h3 align="center" style="text-decoration: none !important;">
-Results-driven Senior Software Engineer experienced in building Fullstack systems for Fintech, e-commerce, and other products. Expert in microservices architecture, API development, and database management. Skilled in leading teams and integrating enterprise systems. Proficient in NestJS, GraphQL, TypeORM, PostgreSQL, and cloud platforms.
+Results-driven Senior Software Engineer experienced in building Fullstack systems for Fintech, E-commerce, and other products. Expert in microservices architecture, API development, and database management. Skilled in leading teams and integrating enterprise systems. Proficient in NestJS, GraphQL, TypeORM, PostgreSQL, and cloud platforms.
 </h3>
 
 

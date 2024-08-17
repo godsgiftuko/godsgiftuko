@@ -29,8 +29,6 @@ Results-driven Senior Software Engineer experienced in building Fullstack system
 
 - 👨‍💻 Portfolio **[godsgiftuko](https://flowcv.me/godsgiftuko)**
 
-- 📫 Mail **godsgiftuko@gmail.com**
-
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English is my primary language
 
 ## Languages and Tools:
@@ -99,9 +97,6 @@ Results-driven Senior Software Engineer experienced in building Fullstack system
 <!--   <a href="https://medium.com/@godsgiftuko">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp; -->
-  <a href="https://wa.me/+2349071046909">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
 
 
 
